@@ -9,4 +9,6 @@ Install
 cd dotfiles
 
 cp -r * ~/.config/
+
+
 cp -r plasma ~/.local/share/
