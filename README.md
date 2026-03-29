@@ -3,7 +3,10 @@
 
 My favorite themes + Wallpaper (1920x1080) 
 
-Installcd dotfiles
+Install
+
+
+cd dotfiles
 
 cp -r * ~/.config/
 cp -r plasma ~/.local/share/
