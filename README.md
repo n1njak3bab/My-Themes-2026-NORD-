@@ -3,12 +3,14 @@
 
 My favorite themes + Wallpaper (1920x1080) 
 
-Install
+NORD THEMES
+https://store.kde.org/p/1327093
 
+Cursor
+https://store.kde.org/p/1571937
 
-cd dotfiles
+Panel Colorizer
+https://store.kde.org/p/2130967
 
--- cp -r * ~/.config/
-
-
- -- cp -r plasma ~/.local/share/
+Tahoe Launcher
+https://store.kde.org/p/2325705
